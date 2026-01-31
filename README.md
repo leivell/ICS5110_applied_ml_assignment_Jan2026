@@ -6,7 +6,7 @@ In this repository we present all relevant work conducted in order to;
 (iii) implemented 4 ML algorithms of which 3 are supervised and 1 is unsupervised and
 (iv) compare model performance as well as provide visual results
 
-We also provide the inital datasources provided, as well as external data used to enrich our final data which is also provided in this repo.
+We also provide the inital datasources provided, as well as external data used to enrich our final data.
 Furthermore we include our official documentation where we cover all work done from the start to the completion of this project.
 An AI journal is also provided, indicating where and why such sources were used.
 
